@@ -141,15 +141,15 @@ The top-ranked internships are then displayed to the user.
 
 ### Home Page
 
-![Home Page](static/screenshots/home.png)
+![Home Page](static/screenshots/home.jpeg)
 
 ### Candidate Input Form
 
-![Input Form](static/screenshots/input.png)
+![Input Form](static/screenshots/input.jpeg)
 
 ### Recommendation Results
 
-![Results](static/screenshots/recommendations.png)
+![Results](static/screenshots/recommendations.jpeg)
 
 ### Mobile View
 
